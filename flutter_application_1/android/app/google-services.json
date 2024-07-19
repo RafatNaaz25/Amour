@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "292860609533",
+    "project_id": "dating-app-bbb72",
+    "storage_bucket": "dating-app-bbb72.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:292860609533:android:26877698d1a5dd026e8f94",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANfQHfvQRX2mHEbQhQot33MeUiR3xlo9w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
